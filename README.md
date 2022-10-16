@@ -5,7 +5,7 @@ Ahmad Zulfan Najib
 
 <h1 align="center">
   <br>
-  <a href="#"><img src="https://ibb.co/NyBwPGn" alt="Tampilan Tugas" width="200"></a>
+  <a href="https://ibb.co/NyBwPGn"><img src="https://i.ibb.co/DR23yjg/Whats-App-Image-2022-10-17-at-05-07-50.jpg" alt="Whats-App-Image-2022-10-17-at-05-07-50" border="0"></a>
   <br>
     Tampilan Profile
   <br>
